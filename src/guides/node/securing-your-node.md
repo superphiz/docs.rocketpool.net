@@ -9,7 +9,7 @@ The goal of this guide is to walk you through steps you can take to secure your 
 
 You should absolutely take all essential steps.
 
-*Wizards only: If you want to go above and beyond and know your way around the terminal, have a look as the popular open source [imthenachoman/How-To-Secure-A-Linux-Server]( https://github.com/imthenachoman/How-To-Secure-A-Linux-Server ) guide.*
+*Wizards only: If you want to go above and beyond and know your way around the terminal, have a look at the popular open source [imthenachoman/How-To-Secure-A-Linux-Server]( https://github.com/imthenachoman/How-To-Secure-A-Linux-Server ) guide.*
 
 ## Keep your client machine secure (essential)
 
